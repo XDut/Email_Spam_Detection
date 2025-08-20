@@ -19,7 +19,9 @@ You can also mark a message as spam/ham and save it as feedback.
 Examples : 
 
 Input : Congratulations! You've won a free vacation!
+
 Output : Spam
 
 Input : Hello, could you please send me the report by tomorrow?
+
 Output : Ham
